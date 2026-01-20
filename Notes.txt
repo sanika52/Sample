@@ -1,4 +1,4 @@
 ADD : Arya
 Substraction : sanika
-Multiplication : Samruddhi
-division : Gauri
+Multiplication : Gauri
+division : Samruddhi
