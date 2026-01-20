@@ -16,5 +16,7 @@ public class multi{
 
         int c = multiplication(a, b);
         System.out.println("Multiplication ::" + c);
+
+        sc.close();
     }
 }
