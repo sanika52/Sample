@@ -25,5 +25,7 @@ public class Division{
         } finally {
             sc.close();
         }
+
+        
     }
 }

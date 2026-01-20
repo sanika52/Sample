@@ -9,10 +9,14 @@ public class multi{
 
         Scanner sc = new Scanner(System.in);
 
+        System.out.print("Enter first no.::");
         int a = sc.nextInt();
+        System.out.print("Enter first no.::");
         int b = sc.nextInt();
 
         int c = multiplication(a, b);
         System.out.println("Multiplication ::" + c);
+
+        sc.close();
     }
 }
