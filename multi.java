@@ -1,5 +1,3 @@
-package SAMPLE;
-
 import java.util.*;
 
 public class multi{
