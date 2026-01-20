@@ -26,6 +26,7 @@ public class Add {
                 System.out.println("Invalid input. Please enter a valid integer.");
                 scanner.next(); // discard invalid input
             }
+            
         }
     }
 }
