@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 365c936e86c72b9e4b72c19882dd9c49bce89d19
 import java.util.Scanner;
 
 public class Add{
